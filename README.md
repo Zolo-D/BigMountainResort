@@ -1,2 +1,2 @@
-# GuideCapstone
+# GuidedCapstone
 project repo
