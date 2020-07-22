@@ -1,2 +1,2 @@
-# GuidedCapstone
+# BigMountainResort
 project repo
